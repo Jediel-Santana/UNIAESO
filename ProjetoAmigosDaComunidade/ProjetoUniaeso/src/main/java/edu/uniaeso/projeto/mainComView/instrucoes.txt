@@ -1,0 +1,6 @@
+- ABRIR O PERSISTENCE.XML QUE SE ENCONTRA NA PASTA META-INF EM RESOURCES
+- ALTERAR O USER E O PASSWORD DO JAVAX.PERSISTENCE, USUARIO E SENHA DO BANCO MYSQL
+- CRIAR BANCO DE DADOS projetouniaeso21 NO MYSQL;
+- O jpa vai gerar as tabelas automaticamente.
+- rodar o mainComView e cadastrar usuario e logar com o email.
+- caso a tela fique muito grande, no construtor do Tela Principal SetResizable setar para false.
